@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace myZoo
 {
-    public class Dolphin : Fish
+    public class Dolphin : Fish 
     {
         public bool LiveFree { get; set; }
         public Dolphin(string specie, string color, int age, int lifeExpectancy, string typeOfFish, 
