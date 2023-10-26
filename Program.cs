@@ -11,7 +11,7 @@
             Lion katt2 = new Lion("Katt", "Gul", 3, 12, "Lejon", false, true, true);
 
             Salmon fisk1 = new Salmon("Fisk", "Blanka fjäll", 1, 2, "Lax");
-            Dolphin fisk2 = new Dolphin("Fisk", "Grå", 3, 8, "Delfin", true, true);
+            Dolphin fisk2 = new Dolphin("Fisk", "Grå", 3, 8, "Delfin", true, true,true);
 
             
             Console.WriteLine("Djurens olika läten:");
